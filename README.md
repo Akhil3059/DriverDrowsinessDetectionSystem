@@ -1,4 +1,4 @@
-Driver Drowsiness Detection System
+# Driver Drowsiness Detection System
 
 Overview This project is aimed at developing a system that detects drowsiness in drivers in real-time to prevent accidents caused by fatigue. The system uses computer vision techniques to analyze facial features and monitor the driver's state, triggering alerts when signs of drowsiness are detected.
 
